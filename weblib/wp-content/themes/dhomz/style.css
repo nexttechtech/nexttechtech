@@ -1,0 +1,42 @@
+/*!
+Theme Name: Bansal Trading
+Theme URI: http://acodez.in
+Author: Acodez IT Solutions
+Author URI: http://acodez.in
+Description: Hey, checking if this is a pre-built theme? Nope! It is a custom template built by the awesome crew at Acodez, India
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: acodez-themes
+Tags:
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import 'css/style.css';
+body.search.search-results .post h5 a {color: #731a16;}
+a.url_style {color: rgb(0, 102, 33);font-weight: normal;}
+body.search.search-results .post h5 {margin-bottom: 0px;}
+.group-title{cursor:pointer;color: #731a16;background: #eeeeee;margin: 0px;padding: 5px 20px;font-weight: normal;position: relative;margin: 5px 0px;border: 1px solid #e8e5e5;}
+span.accrd_icon {position: absolute;right: 20px;top: 4px;}
+.gen-block,.manu-block,.app-block,.fun-block {background: #fcfafa;padding: 30px;}
+.outer-box h2.result-title{background: none;padding:0px; font-weight: normal;margin-bottom: 30px;}
+span.n-btn{position: absolute;
+    top: 1.5px;
+    right: 0.1px;
+    width: 60px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #117c7e;
+    color: #fff;
+    text-align: center;
+    z-index: 2;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    cursor: pointer;}
+    .msg{
+        color: green;
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .msg.failed { color: red;}
