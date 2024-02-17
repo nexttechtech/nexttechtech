@@ -318,9 +318,9 @@ input[type=submit] {
     -webkit-appearance: button;
     *overflow: visible;
     border: 1px solid;
-    border-color: #ff8a00;
+    border-color: #003346;
     border-radius: 3px;
-    background: #ff8a00;
+    background: #003346;
     color: white;
     font-size: 16px;
     font-size: 1rem;
@@ -6875,7 +6875,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 }
 
 .partners-page a:hover {
-    color: #ff8a00
+    color: #003346
 }
 
 .partners-page a:hover .partner-name {
@@ -7001,7 +7001,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 }
 
 .cform-form {
-    background: #ba1e1e;
+    background: #003346;
     color: #fff;
     padding: 50px
 }
@@ -7500,7 +7500,7 @@ ul.product-lists li.product-item .product_desc p {
 }
 
 .loadmore a:hover {
-    color: #ff8a00
+    color: #003346
 }
 
 .product-wrap {
@@ -7682,7 +7682,7 @@ h3.bm-title {
 }
 
 .bm-form-item.bm-form-submit input {
-    border: 1px solid #ff8a00;
+    border: 1px solid #003346;
     text-transform: uppercase
 }
 
@@ -8250,7 +8250,7 @@ a:hover {
 }
 
 .landing {
-    background: url(../images/new-intro-bg.jpg) no-repeat #222;
+    background: url(../images/HomePageup9.png) no-repeat #222;
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -8437,10 +8437,11 @@ a:hover {
     display: block;
     text-decoration: none;
     color: #fff;
-    background-image: url(../images/icons-fixed.png);
+    background-image: url(../images/icons-fixed11.png);
     background-position: right;
     background-repeat: no-repeat;
-    background-color: #117c7e;
+    /* background-color: #117c7e; */
+    background-color: #0b0c0c;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -8547,7 +8548,9 @@ a:hover {
     background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 0, 0, 0)), to(#3d7677));
     background-image: -webkit-linear-gradient(bottom, rgba(255, 0, 0, 0), #3d7677);
     background-image: -o-linear-gradient(bottom, rgba(255, 0, 0, 0), #3d7677);
-    background-image: linear-gradient(to top, rgba(255, 0, 0, 0), #3d7677)
+    /* background-image: linear-gradient(to top, rgba(255, 0, 0, 0), #3d7677) */
+    background-image: linear-gradient(to top, rgba(255, 0, 0, 0), #87d8fa)
+
 }
 
 body:not(.home) ul.menu li.current-menu-item a {
@@ -8589,11 +8592,11 @@ body:not(.home) ul.menu li.current-menu-item a:before {
 }
 
 .header.fixed ul.menu li.current-menu-item a {
-    color: #ff8a00
+    color: #28b5e9
 }
 
 .header.fixed ul.menu li.current-menu-item a:before {
-    background: #ff8a00
+    background: #28b5e9
 }
 
 @-webkit-keyframes headeranimation {
@@ -8878,7 +8881,8 @@ ul.menu li:hover .sub-menu {
 }
 
 .hs-cap-inner {
-    background: #f88e0e;
+    /* background: #f88e0e; */
+    background: #003346;
     padding: 25px 35px;
     display: inline-block;
     -webkit-transform: skew(-10deg);
@@ -8889,7 +8893,8 @@ ul.menu li:hover .sub-menu {
 }
 
 .hs-cap-inner:before {
-    background: #f88e0e;
+    /* background: #f88e0e; */
+    background: #003346;
     content: '';
     display: block;
     position: absolute;
@@ -8906,7 +8911,8 @@ ul.menu li:hover .sub-menu {
 }
 
 .hs-cap-inner:after {
-    background: #f88e0e;
+    /* background: #f88e0e; */
+    background: #003346;
     content: '';
     display: block;
     position: absolute;
@@ -9018,7 +9024,7 @@ ul.menu li:hover .sub-menu {
 .intro-block {
     color: #fff;
     padding: 80px 110px;
-    background: url(../images/about-bg.jpg) no-repeat center;
+    background: url(../images/AboutPage1.png) no-repeat center;
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -9074,7 +9080,7 @@ ul.menu li:hover .sub-menu {
 }
 
 .intro-search-wrap {
-    background: #ff8a00;
+    background: #003346;
     padding: 45px;
     color: #fff;
     -webkit-transition: all 0.2s ease;
@@ -9130,7 +9136,7 @@ ul.menu li:hover .sub-menu {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #ff8a00;
+    background: #003346;
     z-index: 0;
     -webkit-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
@@ -9221,7 +9227,7 @@ span.app-icon img {
 }
 
 .app-col-inner:hover {
-    background: #ff8a00;
+    background: #003346;
     color: #fff
 }
 
@@ -9244,7 +9250,7 @@ span.app-icon img {
 }
 
 .key-points-wrap {
-    background: url(../images/key-bg.jpg) no-repeat bottom center #666;
+    background: url(../images/8keycopy.png) no-repeat bottom center #666;
     background-size: cover;
     background-attachment: fixed;
     padding: 75px 0;
@@ -9353,7 +9359,7 @@ h3.key-main-title {
 
 h3.agents-title {
     font-size: 36px;
-    color: #ff8a00;
+    color: #003346;
     margin: 0 0 30px
 }
 
@@ -9398,7 +9404,7 @@ h3.agents-title {
 
 .footer-block {
     width: 100%;
-    background: url(../images/new-footer-bg.jpg) no-repeat bottom #1b1f28;
+    background: url(../images/HomecoutactUs.png) no-repeat bottom #1b1f28;
     background-size: cover;
     color: #fff;
     z-index: 0
@@ -9583,7 +9589,7 @@ span.n-btn input {
 }
 
 span.n-btn:hover {
-    background-color: #ff8a00
+    background-color: #003346
 }
 
 span.n-btn:hover:before {
@@ -9660,8 +9666,10 @@ span.n-btn:hover:before {
     display: block;
     width: 6px;
     height: 6px;
-    border-bottom: solid 6px #f88e0e;
-    border-right: solid 6px #f88e0e;
+    /* border-bottom: solid 6px #f88e0e;
+    border-right: solid 6px #f88e0e; */
+    border-bottom: solid 6px #003346;
+    border-right: solid 6px #003346;
     border-left: solid 6px transparent;
     border-top: solid 6px transparent;
     position: absolute;
@@ -10563,7 +10571,7 @@ span.abt-app-icon img {
 
 .about-sec-tagline {
     color: #fff;
-    background: #ff8a00;
+    background: #003346;
     padding: 40px 50px 80px 30px;
     font-size: 36px;
     line-height: 46px;
@@ -10593,7 +10601,7 @@ span.abt-app-icon img {
 
 .about-sec-2 {
     padding: 70px 0;
-    background: url(../images/philosophy-bg.jpg) no-repeat #f6f6f6;
+    background: url(../images/AboutUs1.jpg) no-repeat #f6f6f6;
     background-size: cover;
     position: relative;
     color: #fff
@@ -10664,7 +10672,7 @@ h3.inner-sec-title {
     margin: 0 0 10px;
     padding: 0;
     font-size: 30px;
-    color: #ff8a00
+    color: #003346
 }
 
 .bansal-point-col {
@@ -10708,7 +10716,7 @@ h3.inner-sec-title {
 }
 
 .why-bansal-points h4:hover {
-    color: #ff8a00
+    color: #003346
 }
 
 .why-bansal-points h4:hover span:after {
@@ -10716,7 +10724,7 @@ h3.inner-sec-title {
 }
 
 .why-bansal-points h4.active {
-    color: #ff8a00
+    color: #003346
 }
 
 .bansal-points-wrap {
@@ -10785,7 +10793,7 @@ h3.inner-sec-title {
     display: block;
     font-size: 45px;
     margin: 0px 0 12px;
-    color: #ff8a00
+    color: #003346
 }
 
 .what-right-item .what-right-inner p:last-child {
@@ -10796,7 +10804,7 @@ h3.inner-sec-title {
     font-size: 25px;
     font-weight: 500;
     margin: 0 0 10px;
-    color: #ff8a00
+    color: #003346
 }
 
 .what-right-item:hover .what-right-inner {
@@ -10804,7 +10812,7 @@ h3.inner-sec-title {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
     margin-top: -5px;
-    background: #ff8a00;
+    background: #003346;
     color: #fff
 }
 
@@ -11238,7 +11246,7 @@ h4.single-team-name {
 }
 
 .wba-item-inner {
-    border-bottom: 1px solid #ff8a00
+    border-bottom: 1px solid #003346
 }
 
 h4.wba-toggler {
@@ -11272,7 +11280,7 @@ h4.wba-toggler:after {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     font-family: 'IonIcons';
-    color: #ff8a00;
+    color: #003346;
     font-size: 22px
 }
 
@@ -11653,7 +11661,7 @@ ul.bw-list li a:hover {
 
 p.orange-heading {
     margin: 20px 0 0;
-    color: #ff8a00;
+    color: #003346;
     font-size: 20px;
     font-weight: 600;
     text-transform: uppercase
@@ -11661,7 +11669,7 @@ p.orange-heading {
 
 .orange-sub-title {
     margin: 20px 0 0;
-    color: #ff8a00;
+    color: #003346;
     font-size: 20px;
     font-weight: 600;
     text-transform: uppercase
@@ -11694,11 +11702,11 @@ p.orange-heading {
 .outer-box .post h3 {
     font-size: 24px;
     font-weight: 400;
-    color: #ff8a00
+    color: #003346
 }
 
 .outer-box .post h3 a {
-    color: #ff8a00
+    color: #003346
 }
 
 .outer-box .post h3 a:hover {
@@ -11718,8 +11726,8 @@ p.orange-heading {
 .outer-box .archive-more a {
     display: inline-block;
     padding: 7px 15px;
-    border: 1px solid #ff8a00;
-    color: #ff8a00
+    border: 1px solid #003346;
+    color: #003346
 }
 
 .outer-box .archive-more a:hover {
@@ -11763,7 +11771,7 @@ p.orange-heading {
 
 .page-template-she-page h4,
 .page-template-terms-page h4 {
-    color: #ff8a00
+    color: #003346
 }
 
 .cta-text {
